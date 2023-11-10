@@ -6,7 +6,7 @@ def mul(a, b):
 class TestMulFunction(unittest.TestCase):
 
     def test_positive_numbers(self):
-        self.assertEqual(mul(2, 3), 7)  # 2 * 3 = 6
+        self.assertEqual(mul(2, 3), 99)  # 2 * 3 = 6
         self.assertEqual(mul(5, 4), 21)  # 5 * 4 = 20
 
     def test_negative_numbers(self):
