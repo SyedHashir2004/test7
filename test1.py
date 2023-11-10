@@ -1,7 +1,7 @@
 import unittest
 
 def mul(a, b):
-    return a * b
+    return a * bythgsa
 
 class TestMulFunction(unittest.TestCase):
 
